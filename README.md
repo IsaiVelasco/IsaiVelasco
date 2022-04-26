@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<a href="https://twitter.com/velheis">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
 <!--
 **IsaiVelasco/IsaiVelasco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
