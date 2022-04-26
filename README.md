@@ -1,10 +1,12 @@
-### Hi there 👋
+<h1 > Hi There 👋 </h1>
+
 <a href="https://twitter.com/Velheris">
   <img align="left" alt="Isai Velasco | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/isaivelasco/">
   <img align="left" alt="Isai's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
 <!--
 **IsaiVelasco/IsaiVelasco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
