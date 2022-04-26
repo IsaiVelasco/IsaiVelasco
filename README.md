@@ -6,7 +6,8 @@
 <a href="https://www.linkedin.com/in/isaivelasco/">
   <img align="left" alt="Isai's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
+<br/> <br/>
+ <img style="margin-top: 10px;" alt="GIF" src="https://i.postimg.cc/Nj2F3chy/dino.gif" width="500" />
 <!--
 **IsaiVelasco/IsaiVelasco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
