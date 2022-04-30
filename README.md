@@ -8,7 +8,7 @@
 </a>
 
 <br/> <br/>
- <img align="left" alt="GIF" src="https://i.postimg.cc/Nj2F3chy/dino.gif" width="300" />
+
 <!--
 **IsaiVelasco/IsaiVelasco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
