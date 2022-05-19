@@ -1,8 +1,9 @@
 <h1 >  Hi There, Welcome to my profile <img src="https://i.postimg.cc/LXYypWgj/cursed-dino.gif" alt="welcome" width=30px;/> </h1>
 
+<p><em>🔭 I’m currently working on Wordpress technical support.</em></p>
 
 [![Twitter: Velheris](https://img.shields.io/twitter/follow/Velheris?style=social)](https://twitter.com/Velheris)
-[![Linkedin: isaivelasco](https://img.shields.io/badge/-isaivelasco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaivelasco/)](https://www.linkedin.com/in/isaivelasco/)
+[![Linkedin: isaivelasco](https://img.shields.io/badge/-IsaiVelasco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaivelasco/)](https://www.linkedin.com/in/isaivelasco/)
 
 <!-- 
 [![GitHub IsaiVelasco](https://img.shields.io/github/followers/IsaiVelasco?label=follow&style=social)](https://github.com/IsaiVelasco)
@@ -15,7 +16,18 @@
 <br/> <br/>
 -->
 
-🔭 I’m currently working on Wordpress technical support.
+```json
+{
+  "Name": "Isai Velasco",
+  "Code": ["Javascript","HTML", "CSS", "Java", "C#"],
+  "Tools:": {
+    "Frameworks": [".NET Core", "React Native", "Vuejs"],
+    "Libraries": "Bootstrap"
+  }
+}
+
+```
+
 
 ## Code: <img src="https://i.postimg.cc/htfQMmPN/java.png" alt="java" width=40px;/> <img src="https://i.postimg.cc/9FX7RK3m/c.png" alt="logotipo-de-c"  width=40px;/><img src="https://i.postimg.cc/CMs8KYQr/js.png" alt="js" width=40px; /> <img src="https://i.postimg.cc/Kv9gnfFn/html-5.png" alt="html-5" width=40px;/> <img src="https://i.postimg.cc/Qdw9zMFC/css-3.png" alt="css-3" width=40px;/> 
 ## Database: <img src="https://i.postimg.cc/J04X29YK/mysql.png" alt="mysql" width=40px;/> <img src="https://i.postimg.cc/Y2bYWCjP/postgre.png" alt="PostgreSQL"  width=40px;/> 
