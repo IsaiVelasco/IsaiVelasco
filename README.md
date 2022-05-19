@@ -9,7 +9,7 @@
 
 <br/> <br/>
 
-🔭 I’m currently working on Chris Rocha Guitars, LLC.
+🔭 I’m currently working on Wordpress technical support.
 
 <!--
 **IsaiVelasco/IsaiVelasco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
