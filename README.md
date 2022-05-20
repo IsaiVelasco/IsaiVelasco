@@ -25,14 +25,11 @@
   "Name": "Isai Velasco",
   "Code": ["Javascript","HTML", "CSS", "Java", "C#"],
   "Tools:": {
-    "Frameworks": [".NET Core", "React Native", "Vuejs"],
-    "Libraries": "Bootstrap",
-    "OtherTechnologies": ["Docker", "Android", "Wordpress"]
+    "Frameworks": [".NET Core", "React Native", "Vuejs", "Bootstrap"]
+    "Other": ["Docker", "Android", "Wordpress"]
   },
   "Activities": {
-    "Events": ["ENEIT national event", 
-               "México Siglo XXI - Fundacion Telmex", 
-               "Omega Up"]
+    "Events": ["ENEIT National Event", "México Siglo XXI", "Omega Up"]
   }
 }
 
