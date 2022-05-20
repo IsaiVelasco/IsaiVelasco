@@ -30,7 +30,9 @@
     "OtherTechnologies": ["Docker", "Android", "Wordpress"]
   },
   "Activities": {
-    "Events": ["ENEIT national event", "México Siglo XXI - Fundacion Telmex", "Omega Up"]
+    "Events": ["ENEIT national event", 
+               "México Siglo XXI - Fundacion Telmex", 
+               "Omega Up"]
   }
 }
 
