@@ -1,4 +1,6 @@
-<h1 >  Hi There, Welcome to my profile <img src="https://i.postimg.cc/LXYypWgj/cursed-dino.gif" alt="welcome" width=30px;/> </h1>
+<h2 >  Hi There! Welcome to my profile <img src="https://i.postimg.cc/LXYypWgj/cursed-dino.gif" alt="welcome" width=30px;/> </h2>
+
+
 
 <p><em>🔭 I’m currently working on Wordpress technical support.</em></p>
 
@@ -24,7 +26,11 @@
   "Code": ["Javascript","HTML", "CSS", "Java", "C#"],
   "Tools:": {
     "Frameworks": [".NET Core", "React Native", "Vuejs"],
-    "Libraries": "Bootstrap"
+    "Libraries": "Bootstrap",
+    "OtherTechnologies": ["Docker", "Android", "Wordpress"]
+  },
+  "Activities": {
+    "Events": ["ENEIT national event", "México Siglo XXI - Fundacion Telmex", "Omega Up"]
   }
 }
 
