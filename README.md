@@ -23,10 +23,10 @@
 ```json
 {
   "Name": "Isai Velasco",
-  "Code": ["Javascript","HTML", "CSS", "Java", "C#"],
+  "Code": ["C#", "Java", "Javascript","HTML", "CSS"],
   "Tools:": {
-    "Frameworks": [".NET Core", "React Native", "Vuejs", "Bootstrap"],
-    "Other": ["Docker", "Android", "Wordpress"]
+    "Frameworks": [".NET Core", "React Native", "Vuejs"],
+    "Other": ["Docker", "Android", "Wordpress", "Node",  "Bootstrap"]
   },
   "Activities": {
     "Events": ["ENEIT National Event", "México Siglo XXI", "Omega Up"]
