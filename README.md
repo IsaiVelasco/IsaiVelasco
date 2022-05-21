@@ -4,6 +4,9 @@
 
 <p><em>🔭 I’m currently working on Wordpress technical support.</em></p>
 
+### No olvides seguirme:
+[![GitHub IsaiVelasco](https://img.shields.io/github/followers/IsaiVelasco?label=follow&style=social)](https://github.com/IsaiVelasco)
+
 [![Twitter: Velheris](https://img.shields.io/twitter/follow/Velheris?style=social)](https://twitter.com/Velheris)
 [![Linkedin: isaivelasco](https://img.shields.io/badge/-IsaiVelasco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaivelasco/)](https://www.linkedin.com/in/isaivelasco/)
 
