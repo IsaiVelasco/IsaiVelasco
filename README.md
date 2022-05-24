@@ -2,7 +2,7 @@
 
 
 
-<p><em>🔭 I’m currently working on Wordpress technical support.</em></p>
+<p><em>🔭 I’m currently learning about Wordpress technical support.</em></p>
 
 ### No olvides seguirme:
 [![GitHub IsaiVelasco](https://img.shields.io/github/followers/IsaiVelasco?label=follow&style=social)](https://github.com/IsaiVelasco)
