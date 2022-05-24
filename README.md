@@ -28,7 +28,7 @@
   "Name": "Isai Velasco",
   "Code": ["C#", "Java", "Javascript","HTML", "CSS"],
   "Tools:": {
-    "Frameworks": [".NET Core", "React Native", "Vuejs"],
+    "Frameworks": ["ASP.NET Core", "React Native", "Vuejs"],
     "Other": ["Docker", "Android", "Wordpress", "Node",  "Bootstrap"]
   },
   "Activities": {
