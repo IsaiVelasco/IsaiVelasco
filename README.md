@@ -4,7 +4,7 @@
 
 <p><em>🔭 I’m currently learning about Wordpress technical support.</em></p>
 
-### No olvides seguirme:
+### Social media:
 [![GitHub IsaiVelasco](https://img.shields.io/github/followers/IsaiVelasco?label=follow&style=social)](https://github.com/IsaiVelasco)
 
 [![Twitter: Velheris](https://img.shields.io/twitter/follow/Velheris?style=social)](https://twitter.com/Velheris)
