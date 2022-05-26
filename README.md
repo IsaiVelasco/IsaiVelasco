@@ -29,7 +29,7 @@
   "Code": ["C#", "Java", "Javascript","HTML", "CSS"],
   "Tools:": {
     "Frameworks": ["ASP.NET Core", "React Native", "Vuejs"],
-    "Other": ["Docker", "Android", "Wordpress", "Node",  "Bootstrap"]
+    "Other": ["Docker", "Android", "Wordpress", "Node",  "Bootstrap", "SQL Server"]
   },
   "Activities": {
     "Events": ["ENEIT National Event", "México Siglo XXI", "Omega Up"]
