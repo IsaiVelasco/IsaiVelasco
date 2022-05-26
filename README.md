@@ -32,7 +32,8 @@
     "Other": ["Docker", "Android", "Wordpress", "Node",  "Bootstrap", "SQL Server"]
   },
   "Activities": {
-    "Events": ["ENEIT National Event", "México Siglo XXI", "Omega Up"]
+    "Events": ["ENEIT National Event", "México Siglo XXI", "Omega Up"],
+    "Advisor": "Programming Fundamentals "
   }
 }
 
