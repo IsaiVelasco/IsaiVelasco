@@ -26,7 +26,7 @@
 ```json
 {
   "Name": "Isai Velasco",
-  "Code": ["C#", "Java", "Javascript","HTML", "CSS"],
+  "Code": ["C#", "Java", "Python", "Javascript","HTML", "CSS"],
   "Tools:": {
     "Frameworks": ["ASP.NET Core", "React Native", "Vuejs"],
     "Other": ["Docker", "Android", "Wordpress", "Node",  "Bootstrap", "SQL Server"]
