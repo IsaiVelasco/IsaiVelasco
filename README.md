@@ -1,4 +1,5 @@
-<h2 >  Hi There! 👋 Welcome to my profile <img src="https://i.postimg.cc/LXYypWgj/cursed-dino.gif" alt="welcome" width=30px;/> </h2>
+<h2 >  Hi There! 👋 Welcome to my profile <img src="https://i.postimg.cc/LXYypWgj/cursed-dino.gif" width="30"/> </h2>
+
 
 <p><em>🔭 I’m currently working as Wordpress technical support.</em></p>
 
