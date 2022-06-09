@@ -33,7 +33,7 @@
   },
   "Activities": {
     "Events": ["ENEIT National Event", "México Siglo XXI", "Omega Up"],
-    "Advisor": "Programming Fundamentals"
+    "Advisor": "Programming Fundamentals with Java and C#"
   }
 }
 
