@@ -22,7 +22,6 @@
 
 ### <img src="https://i.postimg.cc/xTDwmcxL/linux.png" width="30"> A little about me:
 
-
 ```json
 {
   "Name": "Isai Velasco",
