@@ -37,7 +37,6 @@
 }
 
 ```
-### Tech skills:
 ## 
 <img src="https://i.postimg.cc/htfQMmPN/java.png" alt="java" width=40px;/> <img src="https://i.postimg.cc/9FX7RK3m/c.png" alt="logotipo-de-c"  width=40px;/><img src="https://i.postimg.cc/CMs8KYQr/js.png" alt="js" width=40px; /> <img src="https://i.postimg.cc/Kv9gnfFn/html-5.png" alt="html-5" width=40px;/> <img src="https://i.postimg.cc/Qdw9zMFC/css-3.png" alt="css-3" width=40px;/> <img src="https://i.postimg.cc/J04X29YK/mysql.png" alt="mysql" width=40px;/> <img src="https://i.postimg.cc/Y2bYWCjP/postgre.png" alt="PostgreSQL"  width=40px;/> <img src="https://i.postimg.cc/7PXDrfZm/visual-basico.png" alt=".Net Core" width=40px;/> <img src="https://i.postimg.cc/vTqnF3py/wordpress.png" alt="wordpress" width=40px;/> 
 
