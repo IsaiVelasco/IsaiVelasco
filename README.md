@@ -2,7 +2,7 @@
 
 
 <p><em>🔭 I’m currently working as Wordpress technical support.</em></p>
-- 🌱 I’m currently learning AZ 900
+- 🌱 I’m currently getting certified in AZ 900
 
 ### ⭐️ Social media:
 [![GitHub IsaiVelasco](https://img.shields.io/github/followers/IsaiVelasco?label=follow&style=social)](https://github.com/IsaiVelasco)
