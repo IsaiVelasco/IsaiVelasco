@@ -2,7 +2,11 @@
 
 
 <p><em>🔭 I’m currently working as Wordpress technical support.</em></p>
-- 🌱 I’m currently getting certified in AZ 900
+🌱 I’m currently getting certified in AZ 900
+
+
+![microsoft-certified-azure-fundamentals](https://user-images.githubusercontent.com/49338963/178657437-1e75d065-562e-4e8b-858f-dd246750dfe7.png)
+
 
 ### ⭐️ Social media:
 [![GitHub IsaiVelasco](https://img.shields.io/github/followers/IsaiVelasco?label=follow&style=social)](https://github.com/IsaiVelasco)
