@@ -2,7 +2,8 @@
 
 
 <p><em>🔭 I’m currently working as Wordpress technical support.</em></p>
-🌱 Certified in AZ 900
+<p><em>🌱 I’m currently learning new things about UX design.</em></p>
+⚡ Certified in AZ 900
 
 
 ![microsoft-certified-azure-fundamentals](https://user-images.githubusercontent.com/49338963/178657437-1e75d065-562e-4e8b-858f-dd246750dfe7.png)
