@@ -3,7 +3,7 @@
 
 <p><em>🔭 I’m currently working as Wordpress technical support.</em></p>
 <p><em>🌱 I’m currently learning new things about UX design.</em></p>
-<p><em>🌱 I'm going for the AZ 500</em></p>
+<p><em>⚡ I'm going for the AZ 500</em></p>
 ⚡ Certified in AZ 900
 
 
