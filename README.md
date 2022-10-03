@@ -34,8 +34,8 @@
   "Name": "Isai Velasco",
   "Code": ["C#", "Java", "Python", "Javascript", "HTML", "CSS"],
   "Tools:": {
-    "Frameworks": ["ASP.NET Core", "React Native", "Vuejs", "Spring Boot", "Hibernate"],
-    "Other": ["Docker", "Android", "Wordpress", "Node",  "Bootstrap", "SQL Server"]
+    "Frameworks": ["ASP.NET Core", "React Native", "Vuejs", "Spring Boot"],
+    "Other": ["Docker", "Android", "Wordpress", "Node",  "Bootstrap", "SQL Server", "Hibernate"]
   },
   "Activities": {
     "Events": ["ENEIT National Event", "México Siglo XXI", "Omega Up"],
